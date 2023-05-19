@@ -5,6 +5,12 @@ q{
 	font-style: italic;
 }
 
+footer{
+	font-variant: small-caps;
+	margin-top: 1em;
+	text-align: right;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -62,12 +68,6 @@ q{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-}
-
-[epub|type~="z3998:signature"]{
-	font-variant: small-caps;
-	margin-right: 1em;
-	text-align: right;
 }
 
 [epub|type~="bridgehead"]{
