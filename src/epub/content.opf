@@ -28,8 +28,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The “Canary” Murder Case</dc:title>
-		<meta property="file-as" refines="#title">“Canary” Murder Case, The</meta>
+		<dc:title id="title">The Canary Murder Case</dc:title>
+		<meta property="file-as" refines="#title">Canary Murder Case, The</meta>
 		<dc:subject id="subject-1">Private investigators--New York (State)--New York--Fiction</dc:subject>
 		<dc:subject id="subject-2">Vance, Philo (Fictitious character)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
