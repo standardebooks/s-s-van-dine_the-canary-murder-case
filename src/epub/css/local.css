@@ -99,3 +99,10 @@ footer{
 	text-align: justify;
 	text-indent: 0;
 }
+
+
+/* Override default styling */
+[epub|type~="bridgehead"]{
+	max-width: none;
+	text-align: center;
+}
