@@ -47,10 +47,6 @@ footer{
 	margin: 1em;
 }
 
-[epub|type~="z3998:dramatis-personae"] ul li i{
-	font-style: normal;
-}
-
 /* epigraph */
 [epub|type~="epigraph"]{
 	font-style: italic;
