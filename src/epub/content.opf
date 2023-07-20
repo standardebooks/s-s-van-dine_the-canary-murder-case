@@ -41,6 +41,8 @@
 		<meta id="collection-1" property="belongs-to-collection">Philo Vance</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A Manhattan art connoisseur turned amateur detective gets involved in a murder investigation when a theatrical starlet is found dead in her apartment.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/philo-vance"&gt;Philo Vance&lt;/a&gt;, the snobbish art collector who happens to be the longtime friend of District Attorney John Markham, once more finds himself drawn into a criminal investigation. Margaret Odell, the beautiful and talented theatrical singer nicknamed “The Canary,” has been strangled during the night, and from the very beginning there are signs that nothing in the case is quite what it appears to be. Accompanied once more by Sergeant Heath, the unlikely trio struggle to make sense of the evidence.&lt;/p&gt;
