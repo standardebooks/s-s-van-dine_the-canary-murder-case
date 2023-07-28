@@ -100,7 +100,6 @@ footer{
 	text-indent: 0;
 }
 
-
 /* Override default styling */
 [epub|type~="bridgehead"]{
 	max-width: none;
