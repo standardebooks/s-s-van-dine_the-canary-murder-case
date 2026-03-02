@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="endnotes.xhtml">
-		<ignore>
-			<code>y-004</code>
+		<ignore code="y-004">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="local.css">
-		<ignore>
-			<code>c-009</code>
+		<ignore code="c-009">
 			<reason>Style is overriding SE base style.</reason>
 		</ignore>
 	</file>
