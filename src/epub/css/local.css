@@ -75,7 +75,7 @@ footer{
 	text-align: initial;
 }
 
-@supports(display: flex){
+@supports(display: flex) and (min-height: calc(98vh - 3em)){
 	section[epub|type~="epigraph"]{
 		align-items: center;
 		box-sizing: border-box;
